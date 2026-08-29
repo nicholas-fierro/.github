@@ -2,8 +2,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="260" alt="Animated coding workspace" />
 </div>
 
-# Nicholas Fierro
-
 Full-stack software engineer based in Dallas–Fort Worth. I modernize enterprise platforms and build AI-enabled engineering workflows that make complex systems easier to change.
 
 - Building API-first services, web applications, and practical AI tooling.
